@@ -34,7 +34,7 @@ import { absUrl } from '../abs-url'
 // Target year and month (when the calendar is being deployed). Used to
 // determine when this card should be considered active.
 const TARGET_YEAR = 2026
-const TARGET_MONTH = 11 // TODO: For testing in November
+const TARGET_MONTH = 12
 
 const props = defineProps<{ day: number, hasOpened: boolean }>()
 const emit = defineEmits<(event: 'has-opened') => void>()
