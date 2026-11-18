@@ -9,7 +9,7 @@ rating: 5/10
 link: https://thenational.bandcamp.com/album/trouble-will-find-me
 ---
 
-I’m going to start this series with an album that may or may not surprise you if you know me personally, and which will feel a bit like an exception as we continue to go through these recommendations over the coming month.
+I’m going to start this series with an album that may or may not surprise you if you know me personally, and which might feel a bit like an exception as we continue to go through these recommendations over the coming month.
 
 The way I discovered this record was through a colleague, Jens, who is currently a Postdoc in London. He recommended me this album many years ago, I think probably 2014 or 2015. Overall, the album is interesting, because on the one hand, it ticks all the boxes that I personally think make an excellent record, but on the other hand, it only contains one absolute “banger” song, Humiliation, and a bunch of good but forgettable tracks.
 

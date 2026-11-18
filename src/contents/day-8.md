@@ -9,7 +9,9 @@ rating: 7/10
 link: https://marklettieri.bandcamp.com/album/mark-lettieri-group-meets-wdr-big-band-at-studio-4
 ---
 
-Fusion to me seems like a very interesting genre which is a bit like olives: It is an acquired taste. I feel that, once I discovered Snarky Puppy, that was the entry drug into the world of fusion. I was all the more excited once Mark Lettieri released this collab album between his group and the WDR Big Band. The significance of this is that I am a huge fan of our German public broadcasting stations, of which the WDR is the third. (There’s ARD, the first public TV, then ZDF, the second, and WDR, the third. WDR is short for *West-German broadcasting company*.)
+Surprise: I don't just listen to only one genre! Today I wish to recommend a *fusion* record.
+
+Fusion is a very interesting genre which is a bit like olives: It is an acquired taste. I feel that, once I discovered Snarky Puppy (coming soon), that was the entry drug into the world of fusion. I was all the more excited once Mark Lettieri released this collab album between his group and the WDR Big Band. The significance of this is that I am a huge fan of our German public broadcasting stations, of which the WDR is the third. (There’s ARD, the first public TV, then ZDF, the second, and WDR, the third. WDR is short for *West-German broadcasting company*.)
 
 One reason of this is that public broadcasters typically understand their mission statement broadly, and therefore also produce quite a lot of cultural programs. For example, you may even have heard of the WDR “Rockpalast,” which is a production where the WDR will organize, record, and live broadcast concerts of famous bands, often from an old church in Cologne. There are even [YouTube playlists](https://www.youtube.com/playlist?list=PLZ_5bDEnailcnRrUWEqYpIAkPM0ZNsZgr) with many recordings, featuring bands like Manfred Mann’s Earth Band, Wolfmother, The Police, and – one of my favorites – [Band of Horses](https://www.youtube.com/watch?v=RGbgn0wCcEE&list=PLZ_5bDEnailcnRrUWEqYpIAkPM0ZNsZgr&index=23&t=350s).
 
